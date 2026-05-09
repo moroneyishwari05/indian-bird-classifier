@@ -105,7 +105,7 @@ bird_dataset/
 ## Requirements
 
 - Python 3.8+
-- TensorFlow 2.x
+- TensorFlow 2.x(May require venv to be created)
 - A Xeno-Canto account and API key (free)
 
 ## License
